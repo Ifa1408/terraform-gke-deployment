@@ -34,4 +34,5 @@ sudo chmod +x /usr/local/bin/argocd
 echo "Installing Git..."
 sudo apt-get install -y git
 
+
 echo "Terraform, kubectl, Helm, ArgoCD CLI, and Git are now installed."
